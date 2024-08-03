@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sara2alharbi&label=Profile%20views&color=0e75b6&style=flat" alt="sara2alharbi" /> </p>
 
 ## Know me:
-- 🌱 I’m currently learning **Power BI, Tableau**
+- 🌱 I’m currently learning **Power BI**
 
 - 📫 How to reach me **Sara.m.harbi@gmail.com**
 
