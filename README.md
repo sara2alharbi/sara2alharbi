@@ -1,5 +1,5 @@
 ## Hi there, I'am Sara 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Github;I'am+Fresh+IT+graduate;Work+as+Data+Scientist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Github;I'am+Fresh+IT+graduate;)](https://git.io/typing-svg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sara2alharbi&label=Profile%20views&color=0e75b6&style=flat" alt="sara2alharbi" /> </p>
 
 ## Know me:
