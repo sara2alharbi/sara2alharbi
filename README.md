@@ -17,6 +17,7 @@
 - Deep Learning (DL)
 - Smart City
 - IoT
+- Big Data
 
 ## My Skills:
 
